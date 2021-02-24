@@ -83,8 +83,7 @@ hint: the strings returned need to exactly match the string in step 4.
  */
 
 function getWinnersByYear(data, getYearsCB, getWinnersCB) {
-    // aassing to variale
-    // and map over the results of getWinners
+   let yearsArray = getYearsCB 
 }
 
 
